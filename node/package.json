@@ -1,0 +1,22 @@
+{
+  "name": "xpath-gen",
+  "version": "0.0.1",
+  "description": "Generate a xpath expressions via functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauro-balades/xpath-gen.git"
+  },
+  "keywords": [
+    "xpath"
+  ],
+  "author": "mauro-balades",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauro-balades/xpath-gen/issues"
+  },
+  "homepage": "https://github.com/mauro-balades/xpath-gen#readme"
+}
