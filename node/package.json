@@ -2,7 +2,7 @@
   "name": "xpath-gen",
   "version": "0.0.1",
   "description": "Generate a xpath expressions via functions",
-  "main": "src/index.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mauro-balades/xpath-gen/issues"
   },
-  "homepage": "https://github.com/mauro-balades/xpath-gen#readme"
+  "homepage": "https://github.com/mauro-balades/xpath-gen#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
