@@ -4,7 +4,8 @@
   "description": "Generate a xpath expressions via functions",
   "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && node dist/index.js"
   },
   "repository": {
     "type": "git",
